@@ -2,6 +2,7 @@ import tkinter as tk
 import math
 
 # --- 1. Cấu hình Màu sắc và Kích thước ---
+#--DUY
 COLOR = {
     "WINDOW_BG": "#282c34",  # Nền cửa sổ (Xám đen)
     "DISPLAY_BG": "#ecf0f1",  # Nền màn hình hiển thị (Trắng xám nhạt - Giả LCD)
